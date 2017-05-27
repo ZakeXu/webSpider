@@ -1,0 +1,6 @@
+1.工具：
+chrome + json handle
+firefox + xpath checker
+2.方法：
+（1）抓取网页源码 + xpath解析网页源码；
+（2）抓取网页源码 + 解析json数据；
